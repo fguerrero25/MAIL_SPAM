@@ -7,6 +7,7 @@ alfabeto = ("abcdefghijkmnopqrstumnxz")
 #Test purposes
 # print(file)  
 # print(dividir)
+ BD="www"
 
 print(len(dividir)) 
 
